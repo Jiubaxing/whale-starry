@@ -17,11 +17,16 @@ Rename your pr title:
 - author: 作者 
 -->
 
+    brief: Hello World Test PR
+    author: jbx
+
+
 ### What changes are included in this PR?
 
 <!--
 当前pr包含了哪些文件变更?
 -->
+add a helloword program and a markdown file.
 
 ### Are these changes tested?
 
@@ -30,3 +35,4 @@ Rename your pr title:
 或者
 是否对学习的开源项目测试？
 -->
+Yes!
